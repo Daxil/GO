@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eshkereman\\source\\repos\\GO\\GO\\GO.csproj": {}
+    "C:\\Users\\Eshkereman\\Desktop\\GO\\GO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eshkereman\\source\\repos\\GO\\GO\\GO.csproj": {
+    "C:\\Users\\Eshkereman\\Desktop\\GO\\GO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eshkereman\\source\\repos\\GO\\GO\\GO.csproj",
+        "projectUniqueName": "C:\\Users\\Eshkereman\\Desktop\\GO\\GO.csproj",
         "projectName": "GO",
-        "projectPath": "C:\\Users\\Eshkereman\\source\\repos\\GO\\GO\\GO.csproj",
+        "projectPath": "C:\\Users\\Eshkereman\\Desktop\\GO\\GO.csproj",
         "packagesPath": "C:\\Users\\Eshkereman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eshkereman\\source\\repos\\GO\\GO\\obj\\",
+        "outputPath": "C:\\Users\\Eshkereman\\Desktop\\GO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

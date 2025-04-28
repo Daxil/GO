@@ -22,7 +22,7 @@
         </StackPanel>
 
         <!-- Игровое поле -->
-        <Canvas x:Name="GoBoard" Grid.Row="1" Background="BurlyWood" Width="500" Height="500" 
+        <Canvas x:Name="GoBoard" Grid.Row="1" Background="BurlyWood" Width="500" Height="500"
                 HorizontalAlignment="Center" VerticalAlignment="Center"
                 MouseLeftButtonDown="GoBoard_MouseLeftButtonDown">
             <!-- Линии сетки будут добавлены в коде -->
